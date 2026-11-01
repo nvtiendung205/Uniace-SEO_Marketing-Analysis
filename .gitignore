@@ -1,0 +1,31 @@
+# Raw Data (Dữ liệu gốc được ẩn, chỉ lưu trên máy cá nhân, không đẩy lên GitHub)
+data/raw/
+
+# Power BI temporary, cache, and backup files
+*.pbix.backup
+*.pbit
+~$*
+/Uniace_Dashboard.pbix
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python / Notebook / IDE checkpoints & cache
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
